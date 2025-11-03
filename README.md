@@ -118,17 +118,6 @@ python wp_pawn.py | tee wp_pawn_results.txt
 
 ---
 
-## Extending the tool
-
-Suggested improvements you might add:
-
-- Add CLI flags (`argparse`) for non-interactive batch mode
-- Add configurable thread pool size / rate-limit controls
-- Add output formats (JSON / CSV) and timestamped result files
-- Add optional integration with external APIs (WPScan DB, threat intel)
-- Improve brute-force to respect lockout policies and provide a safe mode
-
----
 
 ## Legal
 
