@@ -3,6 +3,9 @@
 **WP PAWN** is a lightweight Python tool to enumerate WordPress sites and gather reconnaissance data quickly.  
 It combines passive checks (version detection, author enumeration) and active checks (plugin/theme discovery, basic brute-force login attempts) with multithreaded probing for speed.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5a41267a-086e-4156-952c-749b77ecd405" />
+
+
 > ⚠️ **Important:** This tool is intended for **ethical security testing only**. Do not use it against systems you do not own or do not have explicit permission to test.
 
 ---
